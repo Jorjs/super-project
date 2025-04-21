@@ -1,0 +1,12 @@
+[submodule "services/nest"]
+	path = services/nest
+	url = https://github.com/Jorjs/nest-js-application.git
+	branch = docker-run
+[submodule "services/email"]
+	path = services/email
+	url = https://github.com/Jorjs/EmailProject.git
+	branch = docker-run
+[submodule "ui/website"]
+	path = ui/website
+	url = https://github.com/Jorjs/Phishing-Website.git
+	branch = docker-run
